@@ -10,9 +10,26 @@
 5. End the begin section.
 
 ### Program:
-
+```
+DEVELOPED BY:V.PRITHVIRAJ
+REG NO: 212222100038
+```
+````
+declare
+a number :=10;
+b number :=20;
+begin
+dbms_output.put_line(a+b);
+dbms_output.put_line(a-b);
+end;
+````
 
 ### Output:
+
+
+![276861339-ca244df1-b136-4b51-abb1-e99402105b6b](https://github.com/prithviraj5703/DBMS/assets/121418418/f77eea69-674c-443e-9d0a-c9e9740d0658)
+
+
 
 
 ### Result:
