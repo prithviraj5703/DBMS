@@ -272,7 +272,10 @@ INSERT INTO Salesman1 (salesman_id, name, city, commission) VALUES(5003, 'Lauson
 ### OUTPUT:
 
 # Left join:
-![270860423-dcc24099-0fdd-404b-b81d-ea86de5cc8f9](https://github.com/prithviraj5703/DBMS/assets/121418418/c6c7f0fc-0ed1-464a-9c3b-e8fcf5baca32)
+
+![270860061-bfa8a83b-9e86-4924-895c-05fbe6346506](https://github.com/prithviraj5703/DBMS/assets/121418418/506dd710-40fa-44a5-a7a8-6c6e1f2e0e2b)
+
+
 
 # Right Join:
 
