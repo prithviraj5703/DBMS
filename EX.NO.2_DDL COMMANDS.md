@@ -102,7 +102,7 @@ alter table student rename to mystudent;
 ![280677388-8586ae53-a448-4913-814e-ee695781ecfd](https://github.com/prithviraj5703/DBMS/assets/121418418/56f77a07-f4a0-4a20-af6a-6b1ff218edb5)
 
 
-## Result:
+# Result:
          Thus the basic DDL commands in SQL are executed. 
 
 
