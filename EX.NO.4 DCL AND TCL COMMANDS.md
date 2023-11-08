@@ -178,30 +178,5 @@ rollback to A;
 
 
 
-### Q11)	Create a new user and grant access to any one database with "insert and update"
-
-
-### QUERY:
-
-
-### OUTPUT:
-
-
-### Q12) Check the user access and display the result 
-
-
-### QUERY:
-
-
-### OUTPUT:
-
-### Q13) Revoke the privillages.
-
-### QUERY:
-
-
-### OUTPUT:
-
-
 ## RESULT :
 Thus the basic TCL and DCL commands are executed.
