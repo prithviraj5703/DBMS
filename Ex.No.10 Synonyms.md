@@ -19,8 +19,8 @@ A SYNONYM provides another name for database object, referred to as original obj
 
 ### SQL QUERY: 
 ```
-DEVELOPED BY: Barath S
-REG NO: 212222230018
+DEVELOPED BY: Mohanish.K
+REG NO: 22002294
 ```
 ```
 CREATE TABLE EMPLOYEE (
